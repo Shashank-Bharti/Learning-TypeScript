@@ -1,8 +1,7 @@
 let age:number = 20;
 if (age > 18){
-    console.log('You are over 18');
-    
-}else {
-    console.log('You are under 18');
+
+    age -= 10
+    console.log(age);
     
 }
