@@ -1,0 +1,5 @@
+// let numbers = []
+// numbers[0] = 1
+// numbers[1] = 'text'
+
+let number: number[] = [];
